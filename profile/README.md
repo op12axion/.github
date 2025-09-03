@@ -1,3 +1,5 @@
+![Banner](https://github.com/op12axion/.github/blob/main/banner.png?raw=true)
+
 # AxionOS for OnePlus 12 (waffle)
 This repo houses all the device-specific repos for the OnePlus 12.
 
